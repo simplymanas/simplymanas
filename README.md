@@ -1,5 +1,12 @@
-<img src="https://avatars2.githubusercontent.com/u/2140430?s=460&u=982b4b7ccccde71a9ecddeab6580c02c7cdc59f4&v=4">
 ### Hi there, My name is Manas.  👋
+
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/simplymanas?style=social)](https://twitter.com/simplymanas)
+
+![GitHub followers](https://img.shields.io/github/followers/simplymanas?label=Follow&style=social)
+
+
 
 I work for the retail customers to help them talk to our colleagues through vairous social media channel. I have started using conversational AI and ML 
 to achieve the same by developing chatbots.
