@@ -1,10 +1,12 @@
 ### Hi there, My name is Manas.  👋
 
 
-
+[![Website](https://img.shields.io/badge/thoughts2share-website-blue)](http://manasdash.thoughts2share.in/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/simplymanas?style=social)](https://twitter.com/simplymanas)
-
 ![GitHub followers](https://img.shields.io/github/followers/simplymanas?label=Follow&style=social)
+![YouTube Video Likes](https://img.shields.io/youtube/likes/jl8hv7MlZj8?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/jl8hv7MlZj8?style=social)
+![YouTube Video Votes](https://img.shields.io/youtube/likes/jl8hv7MlZj8?style=social&withDislikes)
 
 
 
