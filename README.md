@@ -1,3 +1,4 @@
+<img src="https://avatars2.githubusercontent.com/u/2140430?s=460&u=982b4b7ccccde71a9ecddeab6580c02c7cdc59f4&v=4">
 ### Hi there, My name is Manas.  👋
 
 I work for the retail customers to help them talk to our colleagues through vairous social media channel. I have started using conversational AI and ML 
@@ -19,3 +20,5 @@ I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my o
 - 📫 How to reach me: [simplymanas@gmail.com](mailto:simplymanas@gmail.com), [@simplymanas](https://twitter.com/simplymanas)
 - 😄 Pronouns: Beyond He and She
 - ⚡ Fun fact: talk to me to know more 
+
+![A few stats about me on Github](https://github-readme-stats.vercel.app/api?username=simplymanas&show_icons=true)
