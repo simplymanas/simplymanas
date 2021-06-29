@@ -31,6 +31,3 @@ I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my o
 - ⚡ Fun fact: talk to me to know more 
 
 ![A few stats about me on Github](https://github-readme-stats.vercel.app/api?username=simplymanas&show_icons=true)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simplymanas)](https://github.com/simplymanas/github-readme-stats)
-
