@@ -12,7 +12,7 @@
 
 I work for the retail customers to help them talk to our colleagues through vairous social media channel. I work on conversational AI. 
 
-I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my own [blog](http://manasdash.thoughts2share.in/). 
+I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my own [blog](https://simplymanas.github.io/blogs/). 
 
 
 <!--
