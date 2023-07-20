@@ -1,7 +1,6 @@
 ### Hi there, My name is ✨ Manas ✨.  👋
 
 
-[![Website](https://img.shields.io/badge/thoughts2share-website-blue)](http://manasdash.thoughts2share.in/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/simplymanas?style=social)](https://twitter.com/simplymanas)
 [![GitHub followers](https://img.shields.io/github/followers/simplymanas?label=Follow&style=social)](https://github.com/simplymanas)
 [![YouTube Video Likes](https://img.shields.io/youtube/likes/jl8hv7MlZj8?style=social)](https://www.youtube.com/channel/UC8icclDBho-0-_jAXXt_gfQ?view_as=subscriber)
