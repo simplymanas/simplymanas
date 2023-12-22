@@ -8,7 +8,6 @@
 [![YouTube Video Votes](https://img.shields.io/youtube/likes/jl8hv7MlZj8?style=social&withDislikes)](https://www.youtube.com/channel/UC8icclDBho-0-_jAXXt_gfQ?view_as=subscriber)
 
 
-
 I work for retail customers to help them talk to our colleagues through various social media channels. I work on conversational AI. 
 
 I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my own [blog](https://simplymanas.github.io/blogs/). 
