@@ -19,10 +19,12 @@ I also blog at [Dzone](https://dzone.com/users/815217/simplymanas.html) and my o
 
 
 
+- ✍️ Tech Blog(https://dzone.com/users/815217/simplymanas.html)
 - 🔭 I’m currently working on building retail software
-- 🤖 I'm working on chatbots using Conversational AI.
+- 🤖 I'm working on chatbots using Conversational AI, LLMs.
 - 🌱 I’m currently learning methods to live like a Monk.
-- 👯 I’m looking to collaborate on  JAVA, Linux & Python.
+-  :) Happiness is my IKIGAI.
+- 👯 I’m looking to collaborate on  JAVA, Linux & Python, AI.
 - 🤔 I’m looking for knowledge sharing on topics like distributed computing, middleware and cloud. 
 - 💬 Ask me about software engineering and the journey from development to production
 - 📫 How to reach me: [simplymanas@gmail.com](mailto:simplymanas@gmail.com), [@simplymanas](https://twitter.com/simplymanas)
