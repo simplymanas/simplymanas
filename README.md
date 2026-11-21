@@ -35,13 +35,7 @@
 <!-- ══════════════════ GITHUB PROFILE STATS ══════════════════ -->
 <p align="center">
   <a href="https://github.com/simplymanas?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-63-181717?style=flat-square&logo=github&logoColor=white" alt="Followers"/>
-  </a>
-  <a href="https://github.com/simplymanas?tab=following">
-    <img src="https://img.shields.io/badge/Following-100-181717?style=flat-square&logo=github&logoColor=white" alt="Following"/>
-  </a>
-  <a href="https://github.com/simplymanas?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-69-blue?style=flat-square&logo=github&logoColor=white" alt="Repos"/>
+    <img src="https://img.shields.io/github/followers/simplymanas?style=flat-square&logo=github&logoColor=white&label=Followers&color=181717" alt="Followers"/>
   </a>
   <a href="https://github.com/simplymanas?tab=achievements">
     <img src="https://img.shields.io/badge/Achievements-🏅_View-FFD700?style=flat-square&logo=github&logoColor=white" alt="Achievements"/>
@@ -68,44 +62,17 @@ My philosophy: understand the core deeply, apply the new deliberately, and share
 
 ---
 
-## 🎯 Career Guidance & Tech Consultancy
-
-> Available for **1:1 guidance sessions** and **consultancy engagements**. Grounded in 21 years of real delivery — not theory.
-
-### 👨‍🏫 Career Guidance
-
-I work with engineers and developers who are:
-
-- 🚀 **Navigating the Senior → Architect transition** — the shift from solving tasks to owning systems and influencing direction
-- 🧭 **Choosing depth vs. breadth** — when to specialise in distributed systems, AI integration, cloud, or backend engineering
-- 📐 **Learning to think in systems** — design trade-offs, CAP theorem, event-driven vs. request-driven, and when each matters
-- 📄 **Building a visible engineering profile** — GitHub presence, technical writing, conference talks, and community work
-- 🏢 **Preparing for principal/architect interviews** — system design rounds, trade-off articulation, and leadership conversations
-- 🌱 **Early-career developers** — how to go deep on core CS while staying relevant in a fast-moving industry
-
-### 🔧 Tech Consultancy
-
-I consult on:
-
-- 🏗️ **System & API Architecture** — microservices, event-driven design, domain modeling, API gateway patterns
-- 🤖 **AI-Implemented Systems** — integrating LLMs and agentic AI into production architectures as reliable, maintainable components
-- 🔗 **Distributed Systems** — Kafka, Redis, Couchbase, eventual consistency, and supply-chain-grade reliability
-- ☁️ **Cloud-Native Engineering** — AWS, Docker, Kubernetes, CICD pipelines built for teams shipping at pace
-- 📐 **Engineering Culture** — code review standards, SDLC maturity, architectural decision records, and engineering principles
-
-> 📫 **Get in touch:** [simplymanas@gmail.com](mailto:simplymanas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/simplymanas-in/) · [about.me](https://about.me/simplymanas)
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 **Working on:** Retail-scale distributed systems & AI-implemented solutions at Tesco Technology
 ## 🧪 Open source I maintain
 
 **[MCP Master Tester](https://github.com/simplymanas/mcp-master-tester)**: test any MCP server. A local web UI to run its tools, plus lint and a smoke test for CI. One `npx` command, two dependencies.
 
 `npx mcp-master-tester` · [Website](https://simplymanas.github.io/mcp-master-tester/) · [Survey: how much context do popular MCP servers use?](https://simplymanas.github.io/mcp-master-tester/survey.html) · [npm](https://www.npmjs.com/package/mcp-master-tester)
 
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 **Working on:** Retail-scale distributed systems & AI-implemented solutions at Tesco Technology, and [MCP Master Tester](https://github.com/simplymanas/mcp-master-tester) in my own time
 - 🤖 **Currently focused on:** Applying LLMs and agentic AI within production system architectures
 - 🧱 **Core belief:** Distributed systems and good architecture are non-negotiable — AI sits on top of them, not instead of them
 - 🌱 **Deepening:** AI integration patterns, agentic workflows, and LLM-in-production engineering
@@ -149,6 +116,35 @@ I consult on:
 
 ---
 
+## 🎯 Career Guidance & Tech Consultancy
+
+> Available for **1:1 guidance sessions** and **consultancy engagements**. Grounded in 21 years of real delivery — not theory.
+
+### 👨‍🏫 Career Guidance
+
+I work with engineers and developers who are:
+
+- 🚀 **Navigating the Senior → Architect transition** — the shift from solving tasks to owning systems and influencing direction
+- 🧭 **Choosing depth vs. breadth** — when to specialise in distributed systems, AI integration, cloud, or backend engineering
+- 📐 **Learning to think in systems** — design trade-offs, CAP theorem, event-driven vs. request-driven, and when each matters
+- 📄 **Building a visible engineering profile** — GitHub presence, technical writing, conference talks, and community work
+- 🏢 **Preparing for principal/architect interviews** — system design rounds, trade-off articulation, and leadership conversations
+- 🌱 **Early-career developers** — how to go deep on core CS while staying relevant in a fast-moving industry
+
+### 🔧 Tech Consultancy
+
+I consult on:
+
+- 🏗️ **System & API Architecture** — microservices, event-driven design, domain modeling, API gateway patterns
+- 🤖 **AI-Implemented Systems** — integrating LLMs and agentic AI into production architectures as reliable, maintainable components
+- 🔗 **Distributed Systems** — Kafka, Redis, Couchbase, eventual consistency, and supply-chain-grade reliability
+- ☁️ **Cloud-Native Engineering** — AWS, Docker, Kubernetes, CICD pipelines built for teams shipping at pace
+- 📐 **Engineering Culture** — code review standards, SDLC maturity, architectural decision records, and engineering principles
+
+> 📫 **Get in touch:** [simplymanas@gmail.com](mailto:simplymanas@gmail.com) · [LinkedIn](https://www.linkedin.com/in/simplymanas-in/) · [about.me](https://about.me/simplymanas)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -158,17 +154,6 @@ I consult on:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplymanas&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies & Achievements
-
-
-<p align="center">
-  <a href="https://github.com/simplymanas?tab=achievements">
-    <img src="https://img.shields.io/badge/🏅_View_All_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
-  </a>
 </p>
 
 ---
