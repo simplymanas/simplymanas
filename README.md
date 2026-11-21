@@ -100,6 +100,12 @@ I consult on:
 ## 🚀 What I'm Up To
 
 - 🔭 **Working on:** Retail-scale distributed systems & AI-implemented solutions at Tesco Technology
+## 🧪 Open source I maintain
+
+**[MCP Master Tester](https://github.com/simplymanas/mcp-master-tester)**: test any MCP server. A local web UI to run its tools, plus lint and a smoke test for CI. One `npx` command, two dependencies.
+
+`npx mcp-master-tester` · [Website](https://simplymanas.github.io/mcp-master-tester/) · [Survey: how much context do popular MCP servers use?](https://simplymanas.github.io/mcp-master-tester/survey.html) · [npm](https://www.npmjs.com/package/mcp-master-tester)
+
 - 🤖 **Currently focused on:** Applying LLMs and agentic AI within production system architectures
 - 🧱 **Core belief:** Distributed systems and good architecture are non-negotiable — AI sits on top of them, not instead of them
 - 🌱 **Deepening:** AI integration patterns, agentic workflows, and LLM-in-production engineering
